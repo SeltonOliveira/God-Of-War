@@ -24,6 +24,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto de uma página do God Of War.
 
+https://seltonoliveira.github.io/God-Of-War/
+
 <br>
 
 ## 🔖 Layout
